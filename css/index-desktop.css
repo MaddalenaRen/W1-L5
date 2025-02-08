@@ -30,12 +30,23 @@ header img {
 .box6 {
     display: inline-block;
     width: 30%;
+    height: 80px;
     padding: 0px;
     margin: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 5px;
     border-style: solid;
     border-width: thin;
     border-color: #dee1e3;
+}
+
+.ml {
+    margin-left: 20px;
+}
+
+.mr {
+    margin-right: 20px;
 }
 
 .image-box {
@@ -43,6 +54,16 @@ header img {
     height: 300px;
     display: inline-block;
     padding-bottom: 50px;
+
+}
+
+.image-box-6 {
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    padding-bottom: 50px;
+    margin-bottom: 35px;
+
 
 }
 
@@ -87,6 +108,9 @@ header img {
     margin-bottom: 20px;
     padding-bottom: 20px;
 }
+
+
+
 
 .box2 .box3 {
     display: inline;
